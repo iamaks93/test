@@ -1,4 +1,2 @@
 <?php
- error_reporting(E_ALL); 
-ini_set('display_errors', '1'); 
-echo '<?php include_once("index.html"); ?>'
+echo '<?php include_once("index.html"); ?>';
